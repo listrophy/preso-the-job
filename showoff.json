@@ -1,1 +1,9 @@
-{ "name": "My Preso", "sections": [ {"section":"one"} ]}
+{
+  "name": "The Job",
+  "sections": [
+    {"section":"01_me"},
+    {"section":"02_you_are_not_ready"},
+    {"section":"03_find_it"},
+    {"section":"04_conclusion"}
+  ]
+}
