@@ -6,9 +6,13 @@
 # Not Internships
 ## Focus on training
 
+.notes mentor
+
 !SLIDE
 # Lateral Movement
 ## Java -> Ruby?
+
+.notes lathe -> mill
 
 !SLIDE
 # Pair Programming

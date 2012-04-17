@@ -2,8 +2,8 @@
 # wait... where's apprenticeship?
 
 !SLIDE
-# fact:
-## you are not ready
+## fact:
+# you are not ready
 .notes so many aspects: SCM, langs, frameworks, (team)
 
 !SLIDE smbullets incremental
